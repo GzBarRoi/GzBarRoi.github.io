@@ -1,2 +1,2 @@
-# 主页与快速导航
-noip备考
+[noip备考](https://gzbarroi.github.io/noip.html)
+
